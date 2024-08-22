@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "842746255558",
+    "project_id": "axis-deeplink-b09cd",
+    "storage_bucket": "axis-deeplink-b09cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842746255558:android:4f0daa06b3bb998d2adfc7",
+        "android_client_info": {
+          "package_name": "com.example.axis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPFjkAx7qO7WdGk33i83o0NXdobXGd99c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842746255558:android:caa8e496ea7e9d572adfc7",
+        "android_client_info": {
+          "package_name": "com.example.axisdeeplink.axis_deeplink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPFjkAx7qO7WdGk33i83o0NXdobXGd99c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
